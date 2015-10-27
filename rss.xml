@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Daniel Testa]]></title>
         <description><![CDATA[Daniel Testa]]></description>
         <link>https://thegrid.ai/dtesta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 15:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 00:32:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtesta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -19,7 +18,7 @@
             <description><![CDATA[<article><h1>New site</h1><p>New site!</p></article>]]></description>
             <link>https://thegrid.ai/dtesta/new-site/index.html</link>
             <guid isPermaLink="false">2899919e-b775-461f-88e3-df49a1c5f534</guid>
-            <pubDate>Fri, 09 Oct 2015 03:45:00 GMT</pubDate>
+            <pubDate>Tue, 27 Oct 2015 00:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
