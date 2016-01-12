@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Daniel Testa]]></title>
         <description><![CDATA[Daniel Testa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dtesta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 16:26:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 16:28:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dtesta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4697e701-96e3-42ec-bdf4-be7c94289214.jpg">]]></description>
-            <link>undefined114a2748-be10-44c2-8026-f63af0bccb01/index.html</link>
+            <title><![CDATA[Missing summer]]></title>
+            <description><![CDATA[<article><h1>Missing summer</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/043a096655f568f96fbc542c25b1712b121dfbc1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dtesta/114a2748-be10-44c2-8026-f63af0bccb01/index.html</link>
             <guid isPermaLink="false">114a2748-be10-44c2-8026-f63af0bccb01</guid>
-            <pubDate>Tue, 12 Jan 2016 16:26:30 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 16:28:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
